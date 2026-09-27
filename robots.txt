@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /telugu-ott-intelligence-site/
+Sitemap: https://srisusamg.github.io/telugu-ott-intelligence-site/sitemap.xml
