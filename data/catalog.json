@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_updated_at": "2026-09-27T11:16:35Z",
+  "catalog_updated_at": "2026-09-28T01:26:56Z",
   "entities": [
     {
       "entity_id": "toi_2b7d18230f2e6a94ce8cff37cf4cde3e",
@@ -91,6 +91,46 @@
         {
           "path": "/title",
           "citation_id": "cite_3816858fe9cf09ebb9f1417f"
+        }
+      ]
+    },
+    {
+      "entity_id": "toi_40b82998788f4fb8a550418944b63d9d",
+      "slug": "korean-kanakaraju-44b63d9d",
+      "title": "Korean Kanakaraju",
+      "original_title": null,
+      "aliases": [],
+      "content_type": "film",
+      "original_language": "te",
+      "release_year": 2026,
+      "theatrical_release_date": null,
+      "primary_genre": null,
+      "secondary_genres": [],
+      "themes": [],
+      "tone": null,
+      "runtime_minutes": null,
+      "director": [],
+      "cast": [],
+      "external_reviews": [],
+      "verification_state": "verified",
+      "confidence": "high",
+      "last_verified_at": "2026-09-28T01:26:56Z",
+      "citations": [
+        {
+          "path": "/content_type",
+          "citation_id": "cite_b2cb4110db2b142d9261eb67"
+        },
+        {
+          "path": "/original_language",
+          "citation_id": "cite_b2cb4110db2b142d9261eb67"
+        },
+        {
+          "path": "/release_year",
+          "citation_id": "cite_b2cb4110db2b142d9261eb67"
+        },
+        {
+          "path": "/title",
+          "citation_id": "cite_b2cb4110db2b142d9261eb67"
         }
       ]
     },
@@ -237,6 +277,46 @@
       ]
     },
     {
+      "entity_id": "toi_cddceb97a626b686d795093d4060f990",
+      "slug": "hushar-pittalu-4060f990",
+      "title": "Hushar Pittalu",
+      "original_title": null,
+      "aliases": [],
+      "content_type": "film",
+      "original_language": "te",
+      "release_year": 2026,
+      "theatrical_release_date": null,
+      "primary_genre": null,
+      "secondary_genres": [],
+      "themes": [],
+      "tone": null,
+      "runtime_minutes": null,
+      "director": [],
+      "cast": [],
+      "external_reviews": [],
+      "verification_state": "verified",
+      "confidence": "high",
+      "last_verified_at": "2026-09-28T01:26:56Z",
+      "citations": [
+        {
+          "path": "/content_type",
+          "citation_id": "cite_2b098d24196b0a6bf33537da"
+        },
+        {
+          "path": "/original_language",
+          "citation_id": "cite_2b098d24196b0a6bf33537da"
+        },
+        {
+          "path": "/release_year",
+          "citation_id": "cite_2b098d24196b0a6bf33537da"
+        },
+        {
+          "path": "/title",
+          "citation_id": "cite_2b098d24196b0a6bf33537da"
+        }
+      ]
+    },
+    {
       "entity_id": "toi_cff80b75fcfada707486bff3544b31b8",
       "slug": "panchanama-544b31b8",
       "title": "Panchanama",
@@ -377,6 +457,33 @@
         {
           "path": "/region",
           "citation_id": "cite_3816858fe9cf09ebb9f1417f"
+        }
+      ]
+    },
+    {
+      "event_id": "av_370b68c83a5d20fc2e607b96ffcbee14",
+      "entity_id": "toi_40b82998788f4fb8a550418944b63d9d",
+      "platform": "netflix",
+      "region": "IN",
+      "ott_release_date": null,
+      "available_languages": [],
+      "subtitles": null,
+      "availability_state": "live",
+      "verification_state": "verified",
+      "confidence": "high",
+      "last_verified_at": "2026-09-28T01:26:56Z",
+      "citations": [
+        {
+          "path": "/availability_state",
+          "citation_id": "cite_b2cb4110db2b142d9261eb67"
+        },
+        {
+          "path": "/platform",
+          "citation_id": "cite_b2cb4110db2b142d9261eb67"
+        },
+        {
+          "path": "/region",
+          "citation_id": "cite_b2cb4110db2b142d9261eb67"
         }
       ]
     },
@@ -534,6 +641,33 @@
       ]
     },
     {
+      "event_id": "av_bdbe1213bac9d2400a36372c7cbb5020",
+      "entity_id": "toi_cddceb97a626b686d795093d4060f990",
+      "platform": "prime-video",
+      "region": "IN",
+      "ott_release_date": null,
+      "available_languages": [],
+      "subtitles": null,
+      "availability_state": "live",
+      "verification_state": "verified",
+      "confidence": "high",
+      "last_verified_at": "2026-09-28T01:26:56Z",
+      "citations": [
+        {
+          "path": "/availability_state",
+          "citation_id": "cite_2b098d24196b0a6bf33537da"
+        },
+        {
+          "path": "/platform",
+          "citation_id": "cite_2b098d24196b0a6bf33537da"
+        },
+        {
+          "path": "/region",
+          "citation_id": "cite_2b098d24196b0a6bf33537da"
+        }
+      ]
+    },
+    {
       "event_id": "av_c63545dd6641b6f6bf4d21b6ef752020",
       "entity_id": "toi_5922e6fa234ccaf383689ff3f8530a59",
       "platform": "zee5",
@@ -625,6 +759,13 @@
       "observed_at": "2026-09-27T00:50:10Z"
     },
     {
+      "citation_id": "cite_2b098d24196b0a6bf33537da",
+      "url": "https://www.primevideo.com/-/tr/detail/0TW01Y5LHAZ6HIGC6WLHTWXKS7?tr=in",
+      "publisher": "Prime Video",
+      "source_type": "official_ott",
+      "observed_at": "2026-09-28T01:26:56Z"
+    },
+    {
       "citation_id": "cite_2b6c7c46d23cd84b4a84db0c",
       "url": "https://www.netflix.com/in/title/81660220",
       "publisher": "Netflix",
@@ -658,6 +799,13 @@
       "publisher": "Netflix",
       "source_type": "official_ott",
       "observed_at": "2026-09-27T00:23:27Z"
+    },
+    {
+      "citation_id": "cite_b2cb4110db2b142d9261eb67",
+      "url": "https://www.netflix.com/in/title/82995870",
+      "publisher": "Netflix",
+      "source_type": "official_ott",
+      "observed_at": "2026-09-28T01:26:56Z"
     },
     {
       "citation_id": "cite_b97fcd21652996b7d3bc7d27",
