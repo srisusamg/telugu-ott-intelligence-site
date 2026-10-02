@@ -3,6 +3,13 @@
   "catalog_updated_at": "2026-09-28T01:26:56Z",
   "entities": [
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_2b7d18230f2e6a94ce8cff37cf4cde3e",
       "slug": "objection-my-lord-cf4cde3e",
       "title": "Objection, My Lord!",
@@ -48,6 +55,13 @@
       ]
     },
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_2c43869e9d523cc15d23163484875b61",
       "slug": "lenin-84875b61",
       "title": "Lenin",
@@ -97,6 +111,13 @@
       ]
     },
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_40b82998788f4fb8a550418944b63d9d",
       "slug": "korean-kanakaraju-44b63d9d",
       "title": "Korean Kanakaraju",
@@ -138,6 +159,13 @@
       ]
     },
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_5922e6fa234ccaf383689ff3f8530a59",
       "slug": "veerabhadruni-rahasyam-f8530a59",
       "title": "Veerabhadruni Rahasyam",
@@ -189,6 +217,13 @@
       ]
     },
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_60e77a0c97edb955046d44fbf7af4389",
       "slug": "super-subbu-f7af4389",
       "title": "Super Subbu",
@@ -234,6 +269,13 @@
       ]
     },
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_a0fa7d9a168cb24f30237a22069d7fb4",
       "slug": "agadha-069d7fb4",
       "title": "Agadha",
@@ -283,6 +325,13 @@
       ]
     },
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_cddceb97a626b686d795093d4060f990",
       "slug": "hushar-pittalu-4060f990",
       "title": "Hushar Pittalu",
@@ -324,6 +373,13 @@
       ]
     },
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_cff80b75fcfada707486bff3544b31b8",
       "slug": "panchanama-544b31b8",
       "title": "Panchanama",
@@ -375,6 +431,13 @@
       ]
     },
     {
+      "synopsis": null,
+      "certification": null,
+      "subgenres": [],
+      "production_companies": [],
+      "franchise": null,
+      "relationships": [],
+      "external_references": [],
       "entity_id": "toi_e9a41c6090b64f22d48d631920ad258b",
       "slug": "happy-journey-20ad258b",
       "title": "Happy Journey",
@@ -430,6 +493,7 @@
   ],
   "availability_events": [
     {
+      "access_model": null,
       "event_id": "av_1544a9ae9d91d741ebd67337d32670cb",
       "entity_id": "toi_2c43869e9d523cc15d23163484875b61",
       "platform": "zee5",
@@ -467,9 +531,16 @@
           "path": "/region",
           "citation_id": "cite_3816858fe9cf09ebb9f1417f"
         }
-      ]
+      ],
+      "telugu_audio_available": true,
+      "telugu_audio_verified": true,
+      "telugu_audio_source": [
+        "https://www.zee5.com/movies/details/lenin/0-0-1z51012712"
+      ],
+      "telugu_audio_last_verified": "2026-09-27T00:50:57Z"
     },
     {
+      "access_model": null,
       "event_id": "av_370b68c83a5d20fc2e607b96ffcbee14",
       "entity_id": "toi_40b82998788f4fb8a550418944b63d9d",
       "platform": "netflix",
@@ -494,9 +565,14 @@
           "path": "/region",
           "citation_id": "cite_b2cb4110db2b142d9261eb67"
         }
-      ]
+      ],
+      "telugu_audio_available": null,
+      "telugu_audio_verified": false,
+      "telugu_audio_source": [],
+      "telugu_audio_last_verified": null
     },
     {
+      "access_model": null,
       "event_id": "av_464a28c2d8fdf53d0fec63fe8e8bd756",
       "entity_id": "toi_e9a41c6090b64f22d48d631920ad258b",
       "platform": "aha",
@@ -533,9 +609,16 @@
           "path": "/subtitles",
           "citation_id": "cite_0793ce2be3edb487a81cbd50"
         }
-      ]
+      ],
+      "telugu_audio_available": true,
+      "telugu_audio_verified": true,
+      "telugu_audio_source": [
+        "https://www.aha.video/movie/happy-journey"
+      ],
+      "telugu_audio_last_verified": "2026-09-27T00:50:10Z"
     },
     {
+      "access_model": null,
       "event_id": "av_7fe3d693739740a1a7dd9dcf857943b7",
       "entity_id": "toi_a0fa7d9a168cb24f30237a22069d7fb4",
       "platform": "zee5",
@@ -573,9 +656,16 @@
           "path": "/region",
           "citation_id": "cite_4972b7c208652dcce5db69ee"
         }
-      ]
+      ],
+      "telugu_audio_available": true,
+      "telugu_audio_verified": true,
+      "telugu_audio_source": [
+        "https://www.zee5.com/movies/details/agadha/0-0-1z51080181"
+      ],
+      "telugu_audio_last_verified": "2026-09-27T00:48:52Z"
     },
     {
+      "access_model": null,
       "event_id": "av_88d69e7eda65171e471d300c2f65347a",
       "entity_id": "toi_cff80b75fcfada707486bff3544b31b8",
       "platform": "zee5",
@@ -610,9 +700,16 @@
           "path": "/region",
           "citation_id": "cite_e6861ba0d14971841c23fb8c"
         }
-      ]
+      ],
+      "telugu_audio_available": true,
+      "telugu_audio_verified": true,
+      "telugu_audio_source": [
+        "https://www.zee5.com/web-series/details/panchanama/0-6-4z51041330"
+      ],
+      "telugu_audio_last_verified": "2026-09-27T08:48:45Z"
     },
     {
+      "access_model": null,
       "event_id": "av_babcff97c3ebf5e987653481bf24ebb2",
       "entity_id": "toi_2b7d18230f2e6a94ce8cff37cf4cde3e",
       "platform": "zee5",
@@ -647,9 +744,16 @@
           "path": "/region",
           "citation_id": "cite_c9bfe607f908a432ab74e5af"
         }
-      ]
+      ],
+      "telugu_audio_available": true,
+      "telugu_audio_verified": true,
+      "telugu_audio_source": [
+        "https://www.zee5.com/web-series/details/objection-my-lord/0-6-4z51006003"
+      ],
+      "telugu_audio_last_verified": "2026-09-27T08:46:37Z"
     },
     {
+      "access_model": null,
       "event_id": "av_bdbe1213bac9d2400a36372c7cbb5020",
       "entity_id": "toi_cddceb97a626b686d795093d4060f990",
       "platform": "prime-video",
@@ -674,9 +778,14 @@
           "path": "/region",
           "citation_id": "cite_2b098d24196b0a6bf33537da"
         }
-      ]
+      ],
+      "telugu_audio_available": null,
+      "telugu_audio_verified": false,
+      "telugu_audio_source": [],
+      "telugu_audio_last_verified": null
     },
     {
+      "access_model": null,
       "event_id": "av_c63545dd6641b6f6bf4d21b6ef752020",
       "entity_id": "toi_5922e6fa234ccaf383689ff3f8530a59",
       "platform": "zee5",
@@ -707,9 +816,16 @@
           "path": "/region",
           "citation_id": "cite_4ddeb7a895051bc661c7c59e"
         }
-      ]
+      ],
+      "telugu_audio_available": true,
+      "telugu_audio_verified": true,
+      "telugu_audio_source": [
+        "https://www.zee5.com/web-series/details/veerabhadruni-rahasyam/0-6-4z5990325"
+      ],
+      "telugu_audio_last_verified": "2026-09-27T11:16:35Z"
     },
     {
+      "access_model": null,
       "event_id": "av_d25bd81459eb6542b49d695293a53fbd",
       "entity_id": "toi_60e77a0c97edb955046d44fbf7af4389",
       "platform": "netflix",
@@ -756,7 +872,13 @@
           "path": "/subtitles",
           "citation_id": "cite_2b6c7c46d23cd84b4a84db0c"
         }
-      ]
+      ],
+      "telugu_audio_available": true,
+      "telugu_audio_verified": true,
+      "telugu_audio_source": [
+        "https://www.netflix.com/in/title/81660220"
+      ],
+      "telugu_audio_last_verified": "2026-09-27T00:23:27Z"
     }
   ],
   "citations": [
