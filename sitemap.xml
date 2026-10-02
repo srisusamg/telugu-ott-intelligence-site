@@ -11,10 +11,12 @@
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/genres/action/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/genres/comedy/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/genres/drama/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/genres/genre-unknown/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/genres/horror/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/genres/mystery/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/genres/romance/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/genres/thriller/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/intelligence/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/leads/ameer-log/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/leads/anaganaga-o-sukravaram/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/leads/azadi-501/</loc></url>
@@ -81,10 +83,51 @@
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/leads/vidaatha/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/leads/vinara-o-vema/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/leads/vishwanath-sons/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/akhil-krishna/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/antony-perumbavoor/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/ar-rahman/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/ashish-joe-antony/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/bobby-kurian/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/buchi-babu-sana/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/bv-nandini-reddy/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/chaman-chakko/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/chippy-renjith/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/dharmendra-kakarala/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/dinesh-prabhakar/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/divyendu-sharma/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/himank-reddy-duvvuru/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/jaffer-idukki/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/jagapathi-babu/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/jakes-bejoy/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/janhvi-kapoor/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/jomon-t-john/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/jude-anthany-joseph/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/kb-ganesh-kumar/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/kottayam-ramesh/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/lineesh-nellikkal/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/manoj-k-jayan/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/miya-george/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/mohanlal/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/om-prakash/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/raj-nidimoru/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/ram-charan/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/sai-kumar-thudakkam/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/samantha-ruth-prabhu/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/santhosh-narayanan/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/shiva-rajkumar/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/vasanth-maringanti/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/venkata-satish-kilaru/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/people/vismaya-mohanlal/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/aha/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/etv-win/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/hotstar/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/hungama-play/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/netflix/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/prime-video/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/sony-liv/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/sun-nxt/</loc></url>
+  <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/vrott/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/platforms/zee5/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/releases/</loc></url>
   <url><loc>https://srisusamg.github.io/telugu-ott-intelligence-site/search/</loc></url>
